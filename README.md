@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/771b6e42-5a51-45c1-9925-785f99311abf
+
 # Vite React TypeScript Starter - E-Learning Platform
 
 An e-learning web application built with React (TypeScript) and Java Spring Boot. This project allows students to browse and purchase courses, while offering professors and admins role-based dashboards to manage content and users.
